@@ -6,7 +6,7 @@
     "stack": "container",
     "env": {
       "HIRUU_QUEEN_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1. 🦄Hiruu🦄 qr කේතය යොදන්න.",
+            "description": "Paste your QR session that you got from https://replit.com/@tik-toktok23/ALPHA-Qr-Session?v=1. 🦄Hiruu🦄 qr කේතය යොදන්න.",
             "required": true
         },
         "BUTTON_CMD": {
