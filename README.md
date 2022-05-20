@@ -113,7 +113,7 @@ HAVE A FUN!
 
 
 
-## ⎝🦄 HIRUU-QUEEN 🦄⎠ Team Offcial
+## ⎝🦄  🦄⎠ Team Offcial
 
 <table>
 										<tbody>
