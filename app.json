@@ -44,7 +44,8 @@
         },
         "SUDO": {
             "description": "If you do not know how to use it, leave it blank! SUDO mode; Your number must be an international number. So you have to have your number after the country code. Example: 947xxxxxxxx (Sri lanka No. 94) ඔබගෙ බොට් වෙනත් WhatsApp අංකයකට ක්‍රියා කර විමට මෙහි එම අංකය යොදන්න.",
-            "required": false
+            "required": false,
+            "value": 94704101989
         },
         "LANGUAGE": {
             "description": "Enter your language. To enable Sinhala, type SI. or to enable English, type EN. මෙහි අවශ්‍ය නම් භාශාව වෙනස් කර ගන්න.",
