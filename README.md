@@ -15,15 +15,11 @@
     World best Sinhala/English WhatsApp Button Bot Developer SIHILEL Enjoy Our Bot
     <br>
         <a href="https://chat.whatsapp.com/GcQC9BOS0LNLasNvjNgtTM">Whatsapp Support Group 01</a> |
-	<a href="https://chat.whatsapp.com/GcQC9BOS0LNLasNvjNgtTM">Whatsapp Support Group 02</a> |
-	<a href="https://chat.whatsapp.com/GcQC9BOS0LNLasNvjNgtTM">Telegarm Support Group</a> |
 	<a href="https://github.com/Sihilel/Hiruu_Queen_Bot">Official Web Site </a> |
         <a href="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg">Youtube Channel</a> |
-	<a href="https://chat.whatsapp.com/GcQC9BOS0LNLasNvjNgtTM">Whatsapp Bot Group</a> |
-	<a href="https://chat.whatsapp.com/GcQC9BOS0LNLasNvjNgtTM">Whatsapp Tech Group</a> |
+	<a href="https://chat.whatsapp.com/EZQvI8W4txYGWhqCKKfgiH">Whatsapp Bot Group 01</a> |
+	<a href="https://chat.whatsapp.com/ES1OABScZgLAUeUBGmVqYB">Whatsapp Bot Group 02</a> |
 	<a href="https://chat.whatsapp.com/GcQC9BOS0LNLasNvjNgtTM">Whatsapp Ehi Group</a> |
-	<a href="https://chat.whatsapp.com/GcQC9BOS0LNLasNvjNgtTM">Whatsapp knowledge Group</a> |
-	<a href="https://chat.whatsapp.com/GcQC9BOS0LNLasNvjNgtTM">Whatsapp Market Group</a>
     <br>
 </p>
 	
@@ -135,7 +131,6 @@ HAVE A FUN!
                   <table>
 										<tbody>
 											<tr>
-												<td><a href="https://www.youtube.com/channel/UCAa2_JLzGHl_Le7BTkY3A/featured"><img src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg" width="200" height="200" alt="DM bro"></a></td>
 												<td><a href="https://wa.me/94704101989"><img src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg" width="200" height="200" alt="SIHILEL"></a></td>
 												<td><a href="https://wa.me/94704101989"><img src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg" width="200" height="200" alt="DARK-DEVIL"></a></td>
 											</tr>
