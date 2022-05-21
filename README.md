@@ -109,12 +109,11 @@ HAVE A FUN!
 
 
 
-## ⎝🦄  🦄⎠ Team Offcial
+## ⎝🦄 DARK-DEVIL 🦄⎠ Team Offcial
 
 <table>
 										<tbody>
 											<tr>
-												<td><a href="https://github.com/Sihilel/Hiruu_Queen_Bot"><img src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg" width="200" height="200" alt="DARK DEVIL"></a></td>
 												<td><a href="https://github.com/Sihilel/Hiruu_Queen_Bot"><img src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg" width="200" height="200" alt="Hiruu-Queen"></a></td>
 												<td><a href="https://wa.me/94704101989"><img src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg" width="200" height="200" alt="SIHILEL"></a></td>
 											</tr>
