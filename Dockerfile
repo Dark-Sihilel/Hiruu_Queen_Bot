@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Sihilel/Hiruu_Queen_Bot/V1 /root/V4
+RUN gh repo clone Dark-Sihilel/Hiruu_Queen_Bot
 WORKDIR /root/V1/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
